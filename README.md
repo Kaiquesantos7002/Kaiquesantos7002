@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Kaiquesantos7002
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Kaiquesantos7002/Kaiquesantos7002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋  Olá, eu sou @Kaiquesantos7002
+-  👀 Tenho interesse em jogar Voleibol
+- 🌱 Atualmente estou aprendendo a programar 
+- 💞️ Procuro colaborar na minha casa
+- 📫 Como chegar até mim kaique.santos.alves@escola.pr.gov.br
+- 1 ano D
+- 
